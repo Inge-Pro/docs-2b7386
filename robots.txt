@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-djj15s.indocuan-pro.cfd/sitemap.xml
